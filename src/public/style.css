@@ -1,0 +1,19 @@
+
+html, body {
+    background-color: #f0f2fa;
+    font-family: "PT Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+    color: #555f77;
+    -webkit-font-smoothing: antialiased;
+  }
+  #map {
+    height: 600px;
+    width: 100%
+  }
+  .user-wrapper {
+    padding: 20px;
+    margin: 20px;
+  }
+  .load-more {
+    padding: 20px;
+    margin: 20px;
+  }
